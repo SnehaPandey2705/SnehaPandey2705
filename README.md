@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnehaPandey2705
+- 👋 Hi, I’m @SnehaPandey
 - 👀 I’m interested in Python and artificial Intelligence.
 - 🌱 I’m currently learning Python, Machine Learning and Artificial Intelligence.
 - 💞️ I’m looking to collaborate on Python and Artificial Intelligence.
